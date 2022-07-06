@@ -15,4 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![card](https://github-readme-stats.vercel.app/api?username=AngeloPirola&theme=default&show_icons=true)](https://github.com/AngeloPirola/)
+### :chart_with_upwards_trend: Statistics<br>
+  
+<img src="https://github-readme-stats.vercel.app/api?username=AngeloPirola&theme=default&hide_border=false&include_all_commits=false&count_private=true" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=AngeloPirola&theme=default&hide_border=false" />
