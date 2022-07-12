@@ -1,4 +1,7 @@
-### Hi there, I'm Angelo 👋
+## Hey there, I'm Angelo 👋
+
+<!-- ### Profile -->
+I have been working in the ICT field since 2007, I am passionate about IT and technology. In my free time I develop some open source projects with .NET Core and I am currently learning Blazor.<br>
 
 <!--
 **AngeloPirola/AngeloPirola** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -16,6 +19,8 @@ Here are some ideas to get you started:
 -->
 
 ### :chart_with_upwards_trend: Statistics<br>
-  
-<img src="https://github-readme-stats.vercel.app/api?username=AngeloPirola&theme=default&hide_border=false&include_all_commits=false&count_private=true" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=AngeloPirola&theme=default&hide_border=false" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=angelopirola&theme=vue" />
+
+
+### 🏆 Trophy
+<img src="https://github-profile-trophy.vercel.app/?username=angelopirola" />
